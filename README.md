@@ -77,7 +77,9 @@
 
 ## الترخيص
 
-لم يتم اعتماد نص ترخيص نهائي داخل المشروع في هذه اللحظة. إذا أردت السماح بإعادة الاستخدام والتعديل والتوزيع بشكل واضح، يُنصح باختيار ترخيص مفتوح المصدر مناسب وإضافة ملف `LICENSE` قبل اعتماد المشروع كمرجع عام. لا تفترض أن إتاحة المستودع للعامة تعني تلقائيًا منح حقوق إعادة التوزيع.
+هذا المشروع مرخّص بموجب **ترخيص MIT**. يتيح الترخيص استخدام الكود ونسخه وتعديله ودمجه ونشره وتوزيعه وترخيصه من الباطن وبيعه، مع الاحتفاظ بإشعار حقوق النشر ونص الترخيص في النسخ أو الأجزاء المهمة من المشروع. يُرجى مراجعة الملف [`LICENSE`](LICENSE) للاطلاع على النص الكامل للترخيص.
+
+ترخيص الكود لا يمنح تلقائيًا حقوقًا على المحتوى أو الشعارات أو مصادر البث الخارجية التي قد تُضاف إلى التطبيق. يتحمل كل مستخدم أو موزّع مسؤولية التأكد من أن استخدامه للمحتوى والخدمات والموارد الخارجية متوافق مع حقوق أصحابها وشروطها.
 
 ## إخلاء مسؤولية
 
@@ -162,7 +164,9 @@ For an issue report, include reproducible steps, Android version, device model, 
 
 ## License
 
-A final license text has not been added to the project at this time. If you want to grant clear permissions to reuse, modify, and redistribute the code, choose an appropriate open-source license and add a `LICENSE` file before presenting the repository as a reusable public reference. Making a repository public does not automatically grant redistribution rights.
+This project is licensed under the **MIT License**. The license permits people to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the code, provided that the copyright notice and license notice remain in copies or substantial portions of the Software. See the [`LICENSE`](LICENSE) file for the complete terms.
+
+The code license does not automatically grant rights to external content, logos, or streaming sources that may be added to the application. Each user or distributor is responsible for ensuring that their use of external content, services, and resources complies with the rights of their owners and applicable terms.
 
 ## Disclaimer
 
