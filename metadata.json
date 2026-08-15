@@ -1,0 +1,6 @@
+{
+  "name": "Mizan Radio",
+  "description": "إذاعة القرآن الكريم بمصر - بث مباشر ومستمر بجودة عالية ونظام حماية من الانقطاع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

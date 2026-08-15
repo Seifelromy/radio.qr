@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">إذاعة القرآن الكريم من القاهرة</string>
+    <string name="radio_quran_cairo">إذاعة القرآن الكريم من القاهرة</string>
+    <string name="live_indicator">بث مباشر</string>
+    <string name="status_playing">جاري التشغيل الآن</string>
+    <string name="status_paused">متوقف مؤقتاً</string>
+    <string name="status_buffering">جاري تحميل البث وتخزينه مؤقتاً…</string>
+    <string name="status_error">فشل البث. جاري تشخيص الخادم وتحديث المسار…</string>
+    <string name="status_connecting">جاري تشييد الاتصال بالخادم الرئيسي…</string>
+    <string name="active_source">قناة البث الحالية</string>
+    <string name="no_internet">لا يوجد اتصال بالشبكة</string>
+    <string name="failover_success">تم الانتقال التلقائي للذراع الاحتياطية بنجاح</string>
+    <string name="failover_attempt">يقوم النظام بتبديل المسار لحماية استمرارية البث…</string>
+    <string name="connecting_internet">يرجى التحقق من اتصالك بالإنترنت والمحاولة مجدداً</string>
+    <string name="settings_title">الضبط والإعدادات</string>
+    <string name="auto_reconnect_title">استعادة البث الذكي</string>
+    <string name="auto_reconnect_desc">إعادة ربط الاتصال بصورة ذكية فور رصد عودة الشبكة أو زوال تذبذب الخادم الداخلي.</string>
+    <string name="preferred_stream_title">قناة البث الأساسية</string>
+    <string name="preferred_stream_desc">تحديد الخادم الأكثر ملاءمة لشبكتك ليتم اعتماده كشريان افتراضي دائم.</string>
+    <string name="theme_mode_title">سمة مظهر التطبيق</string>
+    <string name="theme_mode_desc">ملاءمة مظهر المشغّل ليتوافق مع التصميم العام للواجهات (داكن، فاتح أو وضع النظام).</string>
+    <string name="background_playback_title">الخدمة المستمرة في الخلفية</string>
+    <string name="background_playback_desc">تفعيل المشغّل كخدمة أمامية لإتاحة الاستماع أثناء تصفح التطبيقات أو قفل شاشة الهاتف.</string>
+    <string name="about_app_title">عن إذاعة القرآن الكريم من القاهرة</string>
+    <string name="about_app_desc">تطبيق إذاعة القرآن الكريم من القاهرة\nنسيج رقمي معاصر مُعد خصيصاً لبث الصوت الشجي لآيات الكتاب الكريم دون توقف أو انقطاع.\n\nالتطبيق يُحقق الكفاءة الفائقة والموثوقية المطلقة، مُصمم للمستمع المعاصر مستنداً لأسس فقه هندسة الصوت وقواعد الأداء الرقمي.</string>
+    <string name="about_version">الإصدار الرقمي الأول 1.0.0</string>
+    <string name="stream_item_main">المسار الأساسي السريع (راديو جير)</string>
+    <string name="stream_item_mp3quran">المسار الاحتياطي الأول (MP3Quran)</string>
+    <string name="stream_item_emergency">المسار الاحتياطي الثاني (طوارئ)</string>
+    <string name="theme_light">المظهر الفاتح</string>
+    <string name="theme_dark">المظهر الداكن</string>
+    <string name="theme_system">تلقائي (حسب النظام)</string>
+
+    <!-- Phase 4 strings -->
+    <string name="privacy_policy_title">سياسة الخصوصية</string>
+    <string name="terms_of_use_title">شروط الاستخدام</string>
+    
+    <string name="privacy_policy_content">يحرص تطبيق إذاعة القرآن الكريم من القاهرة على حماية خصوصية مستخدميه. لا يقوم التطبيق بجمع أو مشاركة أي بيانات شخصية أو معلومات جغرافية مع خوادم خارجية.\n\nتُستخدم صلاحية تحديد الموقع الجغرافي (GPS) محلياً بالكامل على جهاز المستخدم لحساب مواقيت الصلاة بدقة فائقة وبشكل فوري، ويتم معالجة الإحداثيات داخل الهاتف دون إرسالها خارجاً إطلاقاً. تُخزن التفضيلات وإعدادات وضع المطور والأذكار والعدادات اليومية في مساحة التخزين المحلية المؤقتة والآمنة الخاصة بالتطبيق فقط.</string>
+    
+    <string name="terms_of_use_content">1. يهدف تطبيق إذاعة القرآن الكريم من القاهرة إلى تقديم خدمة بث إذاعة القرآن الكريم من القاهرة وخدمات الأذكار ومواقيت الصلاة للاستخدام الشخصي وغير التجاري.\n\n2. يُسمح بنسخ ومشاركة الأذكار والآيات المتوفرة بالتطبيق لنشر الخير والفائدة بين المسلمين.\n\n3. إن توفير مسارات البث المتعددة يتم لضمان استقرار الخدمة، ويلتزم المستخدم بعدم استغلال هذه المسارات خارج نطاق الاستخدام الشخصي المعتمد أو استخدامها بشكل قد يضر بالبنية التحتية للخوادم المضيفة.</string>
+
+    <string name="location_auto_btn">تحديد تلقائي (GPS)</string>
+    <string name="location_manual_btn">اختيار مدينة يدوياً</string>
+    <string name="location_status_loading">جاري تحديد موقعك الجغرافي تلقائياً…</string>
+
+    <!-- Notification options -->
+    <string name="notification_section_title">تنبيهات مواقيت الصلاة (مستقبلي)</string>
+    <string name="notification_toggle_all">تفعيل الإشعارات والتنبيهات</string>
+    <string name="notification_toggle_all_desc">تلقي تنبيهات وإشعارات عند دخول وقت الصلاة.</string>
+    <string name="notify_fajr_label">أذان الفجر</string>
+    <string name="notify_sunrise_label">شروق الشمس</string>
+    <string name="notify_dhuhr_label">أذان الظهر</string>
+    <string name="notify_asr_label">أذان العصر</string>
+    <string name="notify_maghrib_label">أذان المغرب</string>
+    <string name="notify_isha_label">أذان العشاء</string>
+    
+    <!-- Hijri setting -->
+    <string name="hijri_adjust_title">تعديل التقويم الهجري</string>
+    <string name="hijri_adjust_desc">تعديل التاريخ الهجري بزيادة أو نقصان يوم لمطابقة الرؤية الشرعية المحلية للأهلة.</string>
+    <string name="hijri_adjust_sub_1">تقليل يوم (-1 يوم)</string>
+    <string name="hijri_adjust_0">التاريخ التلقائي (0 يوم)</string>
+    <string name="hijri_adjust_add_1">زيادة يوم (+1 يوم)</string>
+    <string name="appearance_section_title">مظهر التطبيق</string>
+</resources>

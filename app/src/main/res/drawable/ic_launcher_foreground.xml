@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer ambient ring (representing radio range/halo) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.3"
+        android:pathData="M 32,54 A 22,22 0 1,1 76,54" />
+
+    <!-- Radio Waves forming an upper protective arch -->
+    <path
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 34,40 A 26,26 0 0,1 74,40" />
+    <path
+        android:strokeColor="#FECE3C"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M 40,46 A 18,18 0 0,1 68,46" />
+
+    <!-- Beautiful Golden Crescent -->
+    <path
+        android:fillColor="#FECE3C"
+        android:pathData="M54,22 A32,32 0 1,0 86,54 A32,32 0 0,1 54,22 Z"
+        android:fillAlpha="0.9" />
+
+    <!-- Highly Stylized Open Quran (Page sheets) in the center-bottom of the crescent -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#FECE3C"
+        android:pathData="M54,62 C50,58 38,58 34,60 L34,74 C38,72 50,72 54,76 Z" />
+    <!-- Right Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,62 C58,58 70,58 74,60 L74,74 C70,72 58,72 54,76 Z" />
+    
+    <!-- Rehal / Book Quran Stand -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M51,76 L40,86 L45,86 L54,78 L63,86 L68,86 L57,76 Z" />
+</vector>
